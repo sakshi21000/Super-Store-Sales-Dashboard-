@@ -12,6 +12,10 @@ Regional Sales Analysis: Interactive map showing sales and profit distribution b
 **Tools & Technologies Used**
 Power BI – Data visualization and report building.
 
+**Dasboard Screenshot**
+![Screenshot 2025-03-02 194513](https://github.com/user-attachments/assets/fc13e74f-98c4-491e-b261-96d8571afee6)
+
+
 **Insights Derived**
 The Consumer segment contributes the most (50% of sales).
 COD is the most used payment mode (44% of transactions).
